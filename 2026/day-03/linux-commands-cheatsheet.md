@@ -9,7 +9,7 @@ ls -l - list the permissions of file
 mkdir - make dir
 touch - create file
 whoami - display user name
-cat - edit file
+cat - to view the contents of file
 * adding user or group
 useradd - add user in environment
 useradd -m - add suer in home dir also
